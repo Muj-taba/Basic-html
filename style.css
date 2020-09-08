@@ -1,0 +1,18 @@
+
+body{
+    background-color: #e8e8e8 !important;
+}
+
+.a {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.card:hover{
+  background-color: gray;
+  box-shadow: -32px 26px 39px 12px rgba(0,0,0,0.75);
+}
+
