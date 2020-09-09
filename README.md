@@ -1,4 +1,4 @@
-# Basic-html
+# Basic-HTML
 ----------------
 
 HTML Template
